@@ -1,2 +1,3 @@
 # SystemIntegrityPSscript
-Scan Windows Dir if .exe, .dll,.sys == Get-FileHashsave to fileName | Path | Hash value
+
+Simple Powershell script to find the md5 hash of files
